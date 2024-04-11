@@ -21,7 +21,7 @@ const envFilePath: string = getEnvPath(`${__dirname}/common/envs`);
         host: 'smtp.sendgrid.net',
         auth: {
           user: 'apikey',
-          pass: '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',
+          pass: '',
         },
       },
     }),
